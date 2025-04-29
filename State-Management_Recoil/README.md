@@ -1,1 +1,1 @@
-## State Management in React usng Recoil
+## State Management in React using Recoil
